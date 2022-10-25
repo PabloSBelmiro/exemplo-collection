@@ -8,43 +8,43 @@ public class EstoquePraticando {
         try (Scanner scanner = new Scanner(System.in)) {
             System.out.println("Responda 's' ou 'n'. ");
 
-            System.out.println("Seu estoque de Tubo Soro gel de 5ml está muito abaixo do Padão? ");
+            System.out.println("Seu estoque de Tubo Soro gel de 5ml está muito abaixo do padão? ");
             String resposta = scanner.next();
             respostas.add(resposta.toLowerCase());
 
-            System.out.println("Seu estoque de Tubo K3EDTA 4ml está muito abaixo do Padão? ");
+            System.out.println("Seu estoque de Tubo K3EDTA 4ml está muito abaixo do padão? ");
             resposta = scanner.next();
             respostas.add(resposta.toLowerCase());
 
-            System.out.println("Seu estoque de Tubo Transporte 4ml está muito abaixo do Padão? ");
+            System.out.println("Seu estoque de Tubo Transporte 4ml está muito abaixo do padão? ");
             resposta = scanner.next();
             respostas.add(resposta.toLowerCase());
 
-            System.out.println("Seu estoque de Tubo Heparina 4ml está muito abaixo do Padão? ");
+            System.out.println("Seu estoque de Tubo Heparina 4ml está muito abaixo do padão? ");
             resposta = scanner.next();
             respostas.add(resposta.toLowerCase());
 
-            System.out.println("Seu estoque de Tubo 2KEDTA 5ml está muito abaixo do Padão? ");
+            System.out.println("Seu estoque de Tubo 2KEDTA 5ml está muito abaixo do padão? ");
             resposta = scanner.next();
             respostas.add(resposta.toLowerCase());
 
-            System.out.println("Seu estoque de Tubo Ácido Bórico 4ml está muito abaixo do Padão? ");
+            System.out.println("Seu estoque de Tubo Ácido Bórico 4ml está muito abaixo do padão? ");
             resposta = scanner.next();
             respostas.add(resposta.toLowerCase());
 
-            System.out.println("Seu estoque de Tubo Fluoreto de Sódio 2ml está muito abaixo do Padão? ");
+            System.out.println("Seu estoque de Tubo Fluoreto de Sódio 2ml está muito abaixo do padão? ");
             resposta = scanner.next();
             respostas.add(resposta.toLowerCase());
 
-            System.out.println("Seu estoque de Tubo Heparina Trace(Ametal) 5ml está muito abaixo do Padão? ");
+            System.out.println("Seu estoque de Tubo Heparina Trace(Ametal) 5ml está muito abaixo do padão? ");
             resposta = scanner.next();
             respostas.add(resposta.toLowerCase());
 
-            System.out.println("Seu estoque de Tubo Trace s/Aditivo 6ml está muito abaixo do Padão? ");
+            System.out.println("Seu estoque de Tubo Trace s/Aditivo 6ml está muito abaixo do padão? ");
             resposta = scanner.next();
             respostas.add(resposta.toLowerCase());
 
-            System.out.println("Seu estoque de Tubo 2KEDTA 5ml está muito abaixo do Padão? ");
+            System.out.println("Seu estoque de Tubo 2KEDTA 5ml está muito abaixo do padão? ");
             resposta = scanner.next();
             respostas.add(resposta.toLowerCase());
         }
